@@ -1,0 +1,3 @@
+faster-whisper>=1.1,<3
+numpy>=1.24,<3
+yt-dlp>=2025.1
