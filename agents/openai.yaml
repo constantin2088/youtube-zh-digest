@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文视频纪要"
+  short_description: "转写中文视频原声并生成带时间戳的主题纪要"
+  default_prompt: "Use $youtube-zh-digest to turn this Chinese YouTube replay into a readable, timestamped Chinese digest."
